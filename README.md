@@ -1,4 +1,4 @@
-### Hello! Eu sou a Sheila Oliveira 👋
+### Hello! I am Sheila Oliveira 👋
 
 
   <a href = "mailto:sheilaoliveira2217@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
