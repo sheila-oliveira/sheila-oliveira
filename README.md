@@ -1,7 +1,5 @@
-# Oi 👋, Meu nome é Sheila
-
 Construindo minha Jornada
-# 💫 About Me:
+# 💫 Sobre Mim:
 🔭 Sou estudante de tecnologia💜<br>🌱 Atualmente estou aprendendo HTML, CSS, JavaScript<br>⚡ Curiosidade: Amo animais, jogos e designer🎨
 
 
